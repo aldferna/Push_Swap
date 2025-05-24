@@ -26,13 +26,11 @@ make
 ```
 
 ## Visualizer
-If you want to better understand how the algorithm is working I recommend you this [visualizer](https://github.com/o-reo/push_swap_visualizer).  
+If you want to better understand how the algorithm is working I recommend you this [visualizer](https://github.com/o-reo/push_swap_visualizer):  
 
 <p float="left">
-  <img src="https://camo.githubusercontent.com/2dd938af11d26d77728c954b4eab035200733dfa6506bc007584274bb2d2e985/68747470733a2f2f692e696d6775722e636f6d2f7a7163735a66592e706e67" width="300" />
+  <img src="https://camo.githubusercontent.com/2dd938af11d26d77728c954b4eab035200733dfa6506bc007584274bb2d2e985/68747470733a2f2f692e696d6775722e636f6d2f7a7163735a66592e706e67" width="400" />
 </p>
-
-![alt text](https://camo.githubusercontent.com/2dd938af11d26d77728c954b4eab035200733dfa6506bc007584274bb2d2e985/68747470733a2f2f692e696d6775722e636f6d2f7a7163735a66592e706e67)
 
 
 
